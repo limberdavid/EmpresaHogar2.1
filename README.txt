@@ -37,7 +37,7 @@ NUEVAS FUNCIONES:
 - El QR está preparado como espacio para colocar la imagen real del QR.
 
 PARA PONER TU QR:
-Coloca tu imagen como "mi-qr.png" en la misma carpeta y luego se puede conectar
+Coloca tu imagen como "mi-qr.JPEG" en la misma carpeta y luego se puede conectar
 al diseño. Si me subes tu imagen QR, puedo dejarla integrada en la siguiente versión.
 
 
